@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Somanath Patil
 
-<!--
-**Somanathpatil/Somanathpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Java Full Stack Developer | Spring Boot | React.js
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate passionate about building web applications and solving real-world problems through software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Working on:** Career Hub — Full Stack Career Portal
+- 🌱 **Learning:** Spring Security, Microservices, and DSA in Java
+- 💻 **Backend:** Java, Spring Boot, Hibernate, Spring Data JPA
+- 🎨 **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
+- 🗄️ **Database:** MySQL, MongoDB
+- 🛠️ **Tools:** Git, GitHub, Maven, Postman, Spring Tool Suite
+
+## 🚀 Featured Projects
+
+- **Career Hub:** Full-stack career portal using React.js, Spring Boot, and MySQL.
+- **ShopEasy:** E-commerce application with a React frontend and Spring Boot backend.
+- **Portfolio:** Personal website showcasing my skills and projects.
+
+## 🛠️ Technologies
+
+Java • Spring Boot • React.js • JavaScript • MySQL • MongoDB • Git • GitHub • REST APIs
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Somanath Patil](https://www.linkedin.com/in/somanth-patil/)
+- 🐙 GitHub: [Somanathpatil](https://github.com/Somanathpatil)
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
